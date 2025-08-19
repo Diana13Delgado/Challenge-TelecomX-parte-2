@@ -102,7 +102,7 @@ Identificar los principales factores que influyen en la cancelación de clientes
 ---
 
 ## 📑 Archivos entregables
-
+- `df_limpio.csv`: Contiene los datos limpios para poder ejecutarlo y trabajar em colab con el proyecto Challenge_TelecomX_parte_2.
 - `Challenge_TelecomX_parte_2.ipynb`: contiene todo el flujo del análisis.
 - Código en Python con:
   - Limpieza y preprocesamiento.
