@@ -1,4 +1,4 @@
-# 📊 Challenge-TelecomX-parte-2
+# 📊 Challenge TelecomX - Analisis de Evasión de clientes - Parte 2.
 
 Este proyecto analiza la **cancelación de clientes (churn)** en la empresa TelecomX, utilizando técnicas de **machine learning** y análisis exploratorio de datos.  
 
