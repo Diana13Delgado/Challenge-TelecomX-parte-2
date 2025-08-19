@@ -42,7 +42,6 @@ Identificar los principales factores que influyen en la cancelación de clientes
    - **Random Forest:** análisis de importancia de variables (feature importance).
 
 7. **Informe final**
-   - Elaboración de reporte en PDF con:
      - Comparación de métricas.
      - Gráficos de importancia de variables.
      - Boxplots de Tenure y Total Charges.
@@ -93,12 +92,11 @@ Identificar los principales factores que influyen en la cancelación de clientes
 
 ## 📑 Archivos entregables
 
-- `notebook.ipynb`: contiene todo el flujo del análisis.
-- `Informe_Churn_Completo.pdf`: informe final con resultados, gráficos y estrategias.
+- `Challenge_TelecomX_parte_2.ipynb`: contiene todo el flujo del análisis.
 - Código en Python con:
   - Limpieza y preprocesamiento.
   - Entrenamiento y evaluación de modelos.
-  - Visualizaciones y generación de reportes.
+  - Visualizaciones y reportes.
 
 ---
 
@@ -107,10 +105,9 @@ Identificar los principales factores que influyen en la cancelación de clientes
 - **Python** (pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn).
 - **Machine Learning:** Logistic Regression, Random Forest.
 - **Visualización:** Matplotlib, Seaborn.
-- **Reportes:** ReportLab para generación de PDF.
 
 ---
 
 ## 👨‍💻 Autor
 
-Carlos Esparza — Proyecto **Churn Prediction TelecomX**
+Diana Delgado — Proyecto **Challenge TelecomX parte 2**
