@@ -20,8 +20,12 @@ Identificar los principales factores que influyen en la cancelación de clientes
    - Distribución de cancelación (churn vs no churn).
    - Boxplots y countplots para explorar relación entre:
      - Tenure × Cancelación.
+     - <img width="716" height="466" alt="image" src="https://github.com/user-attachments/assets/c81ce487-fb71-44b0-9c97-efc971644b1e" />
      - Total Charges × Cancelación.
+     - <img width="716" height="466" alt="image" src="https://github.com/user-attachments/assets/787e0bdd-7f8d-4c04-b3c2-c47e153c9725" />
      - Contract × Cancelación.
+     - <img width="716" height="466" alt="image" src="https://github.com/user-attachments/assets/bdc95287-e111-45e8-8467-2fdcfd44619e" />
+
    - Matriz de correlación para identificar variables más relacionadas con churn.
 
 3. **Preprocesamiento**
