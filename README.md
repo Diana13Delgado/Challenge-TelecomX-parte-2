@@ -20,15 +20,18 @@ Identificar los principales factores que influyen en la cancelación de clientes
    - Distribución de cancelación (churn vs no churn).
    - Boxplots y countplots para explorar relación entre:
      - Tenure × Cancelación.
-       <img width="687" height="462" alt="image" src="https://github.com/user-attachments/assets/5b0faf05-aa88-404a-943d-f1143a925627" />
+     - <img width="687" height="462" alt="image" src="https://github.com/user-attachments/assets/5b0faf05-aa88-404a-943d-f1143a925627" />
 
      - Total Charges × Cancelación.
      - <img width="716" height="466" alt="image" src="https://github.com/user-attachments/assets/787e0bdd-7f8d-4c04-b3c2-c47e153c9725" />
+
      - Contract × Cancelación.
      -  <img width="709" height="470" alt="image" src="https://github.com/user-attachments/assets/8bf21533-b2c0-44f3-a25b-7b86d39c8e14" />
 
    - Matriz de correlación para identificar variables más relacionadas con churn.
-<img width="469" height="272" alt="image" src="https://github.com/user-attachments/assets/3c983a5c-1e02-4f89-9d38-46034a2308ac" />     <img width="473" height="265" alt="image" src="https://github.com/user-attachments/assets/25250bab-03d1-4ef3-9a00-5cb5994a12bd" />
+   - <img width="469" height="272" alt="image" src="https://github.com/user-attachments/assets/3c983a5c-1e02-4f89-9d38-46034a2308ac" />
+   
+   - <img width="473" height="265" alt="image" src="https://github.com/user-attachments/assets/25250bab-03d1-4ef3-9a00-5cb5994a12bd" />
 
 
 
